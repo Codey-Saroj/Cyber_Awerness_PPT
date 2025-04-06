@@ -22,7 +22,7 @@ This content is designed for:
 
 ## Download the Presentation
 
-[Click here to download the PPT]((https://github.com/Codey-Saroj/Cyber_Awerness_PPT/raw/main/Cyber_Awareness_PPT.pptx))
+[Click here to download the PPT](https://github.com/Codey-Saroj/Cyber_Awerness_PPT.git)
 
 ## Contribution
 
